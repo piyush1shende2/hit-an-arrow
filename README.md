@@ -2,7 +2,7 @@
 
 A React + Vite arrow game.
 
-**Live demo:** https://piyush1shende2.github.io/hit-an-aerrow/
+**Live demo:** https://piyush1shende2.github.io/hit-an-arrow/
 
 ## Run locally
 
